@@ -1,6 +1,6 @@
 {
-    "name": "project",
-    "short_name": "project",
+    "name": "flutter_iframe_tech_proof",
+    "short_name": "flutter_iframe_tech_proof",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
